@@ -31,7 +31,7 @@
 ### 今後の登壇予定
 | 日付 | イベント名 | コミュニティ | タイトル |
 | --- | --- | --- | --- | 
-| 2026-07-10 | 第61回 Tokyo Jazug Night | [JAZUG (Japan Azure User Group)](https://jazug.connpass.com/) | AVD に関連する内容 |
+| 2026-07-10 | [第61回 Tokyo Jazug Night](https://jazug.connpass.com/event/394698/) | [JAZUG (Japan Azure User Group)](https://jazug.connpass.com/) | AVD に関連する内容 |
 | 2026-06-23 | [ゆるよな Gh-CUG #02](https://gh-cug.connpass.com/event/392497/) | [(Gh-CUG) GitHub Copilot User Group](https://gh-cug.connpass.com/) | GitHub Copilot でブログの継続的レビューをする話 |
 
 ### これまでの登壇
@@ -44,6 +44,7 @@
 ## ブログ
 | タイトル | 検証用コード |
 | --- | --- |
+| [Azure Files でクラウド専用 ID を使用して macOS からアクセスする方法が Public Preview になったので試してみた](https://qiita.com/iboy/items/a5b2455e87be8148bc05)| - |
 | [Enterprise 利用で組織外部の人とコラボレーションをする方法を考える(Entra 運用編)](https://qiita.com/iboy/items/125923c26f381b64266b)| - |
 | [Enterprise 利用で組織外部の人とコラボレーションをする方法を考える(外部 ID で AVD 利用編)](https://qiita.com/iboy/items/4e1593282d497ea28abb) | [ソース](https://github.com/yiwasaki/iboy-blog-src/tree/main/src/avd_external_identity_wz_fslogix) |
 | [Enterprise 利用で組織外部の人とコラボレーションをする方法を考える(ライセンス編)](https://qiita.com/iboy/items/e7af338e55d48c00f427) | - |
