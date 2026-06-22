@@ -39,7 +39,7 @@
 | --- | --- | --- | --- | --- |
 | 2026-05-30 | [YonaYona Azure LT 会](https://yonayona.connpass.com/event/392577/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | はじめてのNetwork Security Perimeter (NSP) | [資料](https://www.docswell.com/s/iboy/ZGNQMD-2026-05-29-201519)|
 | 2026-03-27 | [YonaYona Azure をゆるっと学ぶ会#13](https://yonayona.connpass.com/event/386205/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | Azure Storage Account FW のトラブルシューティング | [資料](https://www.docswell.com/s/iboy/5Q28PY-yonaaz13)|
-| 2026-05-30 | [YonaYona Azure をゆるっと学ぶ会#12](https://yonayona.connpass.com/event/383870/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | Azure テクニカルサポートを理解する | [資料](https://www.docswell.com/s/iboy/ZWRE4P-yonaaz12)|
+| 2026-03-05 | [YonaYona Azure をゆるっと学ぶ会#12](https://yonayona.connpass.com/event/383870/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | Azure テクニカルサポートを理解する | [資料](https://www.docswell.com/s/iboy/ZWRE4P-yonaaz12)|
 
 ## ブログ
 | タイトル | 検証用コード |
