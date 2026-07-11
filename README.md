@@ -31,11 +31,12 @@
 ### 今後の登壇予定
 | 日付 | イベント名 | コミュニティ | タイトル |
 | --- | --- | --- | --- | 
-| 2026-07-10 | [第61回 Tokyo Jazug Night](https://jazug.connpass.com/event/394698/) | [JAZUG (Japan Azure User Group)](https://jazug.connpass.com/) | AVD に関連する内容 |
+| 2026-08-28 | すきやねん Azure!! #41　Azure インフラ 夏の陣！ | すきやねんAzure!! | Entra ID join 用の拡張機能の話 | 
 
 ### これまでの登壇
 | 日付 | イベント名 | コミュニティ | タイトル | 資料 |
 | --- | --- | --- | --- | --- |
+| 2026-07-10 | [第61回 Tokyo Jazug Night](https://jazug.connpass.com/event/394698/) | [JAZUG (Japan Azure User Group)](https://jazug.connpass.com/) | 外部IDで広がるAzure Virtual Desktop のセキュアコラボレーション | [資料](https://www.docswell.com/s/iboy/Z7N941-jazug) <br/> [リポジトリ](https://github.com/yiwasaki/iboy-blog-src/tree/main/src/avd_external_identity_wz_fslogix)|
 | 2026-06-23 | [ゆるよな Gh-CUG #02](https://gh-cug.connpass.com/event/392497/) | [(Gh-CUG) GitHub Copilot User Group](https://gh-cug.connpass.com/) | 技術ブログの課題をGitHub Copilotで解決 <br> - ブログをCopilot に定期レビューさせて最新を維持する -|[資料](https://gh-cug.connpass.com/event/392497/) |
 | 2026-05-30 | [YonaYona Azure LT 会](https://yonayona.connpass.com/event/392577/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | はじめてのNetwork Security Perimeter (NSP) | [資料](https://www.docswell.com/s/iboy/ZGNQMD-2026-05-29-201519)|
 | 2026-03-27 | [YonaYona Azure をゆるっと学ぶ会#13](https://yonayona.connpass.com/event/386205/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | Azure Storage Account FW のトラブルシューティング | [資料](https://www.docswell.com/s/iboy/5Q28PY-yonaaz13)|
@@ -44,6 +45,7 @@
 ## ブログ
 | タイトル | 検証用コード |
 | --- | --- |
+| [Microsoft Entra ID Join した Azure VM に対して Remote Desktop 接続する際の方法と注意点](https://qiita.com/iboy/items/ca030fd3999a2cae7ba3) | - |
 | [Azure Files でクラウド専用 ID を使用して macOS からアクセスする方法が Public Preview になったので試してみた](https://qiita.com/iboy/items/a5b2455e87be8148bc05)| - |
 | [Enterprise 利用で組織外部の人とコラボレーションをする方法を考える(Entra 運用編)](https://qiita.com/iboy/items/125923c26f381b64266b)| - |
 | [Enterprise 利用で組織外部の人とコラボレーションをする方法を考える(外部 ID で AVD 利用編)](https://qiita.com/iboy/items/4e1593282d497ea28abb) | [ソース](https://github.com/yiwasaki/iboy-blog-src/tree/main/src/avd_external_identity_wz_fslogix) |
