@@ -31,16 +31,34 @@
 ### 今後の登壇予定
 | 日付 | イベント名 | コミュニティ | タイトル |
 | --- | --- | --- | --- | 
-| 2026-08-28 | すきやねん Azure!! #41　Azure インフラ 夏の陣！ | すきやねんAzure!! | Entra ID join 用の拡張機能の話 | 
+| 2026-08-28 | [すきやねん Azure!! #41　Azure インフラ 夏の陣！](https://sukiyanenazure.connpass.com/event/400073/) | [すきやねんAzure!!](https://sukiyanenazure.connpass.com/) | Entra ID join 用の拡張機能の話 | 
+| 2026-08-06 | [YonaYona Azure Club 1st Anniversary](https://yonayona.connpass.com/event/400889/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | タイトル未定 | 
+
+### 今後の主催イベント
+| 日付 | イベント名 | コミュニティ | 
+| --- | --- | --- | 
+|2026-08-27|[【YonaAz in 大阪】 AI × VDI Meetup](https://yonayona.connpass.com/event/397871/)|[YonaYona Azure Club](https://yonayona.connpass.com/)|
+
 
 ### これまでの登壇
 | 日付 | イベント名 | コミュニティ | タイトル | 資料 |
 | --- | --- | --- | --- | --- |
+| 2026-07-24 | ★[AI Dev Day 2026](https://aidevday.com/) | [Azure AI Developers Community(JP)](https://azureai.connpass.com/) | [YonaYona Azure Clubへようこそ！](https://aidevday.com/sessions/yonayona-azure-club) | - |
 | 2026-07-10 | [第61回 Tokyo Jazug Night](https://jazug.connpass.com/event/394698/) | [JAZUG (Japan Azure User Group)](https://jazug.connpass.com/) | 外部IDで広がるAzure Virtual Desktop のセキュアコラボレーション | [資料](https://www.docswell.com/s/iboy/Z7N941-jazug) <br/> [リポジトリ](https://github.com/yiwasaki/iboy-blog-src/tree/main/src/avd_external_identity_wz_fslogix)|
 | 2026-06-23 | [ゆるよな Gh-CUG #02](https://gh-cug.connpass.com/event/392497/) | [(Gh-CUG) GitHub Copilot User Group](https://gh-cug.connpass.com/) | 技術ブログの課題をGitHub Copilotで解決 <br> - ブログをCopilot に定期レビューさせて最新を維持する -|[資料](https://gh-cug.connpass.com/event/392497/) |
 | 2026-05-30 | [YonaYona Azure LT 会](https://yonayona.connpass.com/event/392577/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | はじめてのNetwork Security Perimeter (NSP) | [資料](https://www.docswell.com/s/iboy/ZGNQMD-2026-05-29-201519)|
 | 2026-03-27 | [YonaYona Azure をゆるっと学ぶ会#13](https://yonayona.connpass.com/event/386205/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | Azure Storage Account FW のトラブルシューティング | [資料](https://www.docswell.com/s/iboy/5Q28PY-yonaaz13)|
 | 2026-03-05 | [YonaYona Azure をゆるっと学ぶ会#12](https://yonayona.connpass.com/event/383870/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | Azure テクニカルサポートを理解する | [資料](https://www.docswell.com/s/iboy/ZWRE4P-yonaaz12)|
+
+※イベント名に★がつくものは、運営としても参加したイベント
+
+### これまでのコミュニティイベント運営
+| 日付 | イベント名 | コミュニティ | 
+| --- | --- | --- | 
+|2026-07-16|[YonaYona Build Update Night](https://yonayona.connpass.com/event/396467/)|[YonaYona Azure Club](https://yonayona.connpass.com/)|
+|2026-07-16|[YonaYona Infra Night](https://yonayona.connpass.com/event/395805/)|[YonaYona Azure Club](https://yonayona.connpass.com/)|
+|2026-07-16|[【Azure AIの必須機能!?】YonaYona Durable Functions Night](https://yonayona.connpass.com/event/393817/)|[YonaYona Azure Club](https://yonayona.connpass.com/)|
+
 
 ## ブログ
 | タイトル | 検証用コード |
