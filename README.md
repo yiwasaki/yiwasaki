@@ -19,6 +19,7 @@
 ### Microsoft 認定資格
 | 認定日 | 資格名 |
 | --- | --- |
+| 2026-06-26 | [GitHub Foundations](https://learn.microsoft.com/ja-jp/credentials/certifications/github-foundations/?practice-assessment-type=certification) |
 | 2025-12-24 | [Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/ja-jp/credentials/certifications/security-compliance-and-identity-fundamentals/) |
 | 2025-07-19 | [Azure Virtual Desktop Specialty](https://learn.microsoft.com/ja-jp/credentials/certifications/azure-virtual-desktop-specialty/) |
 | 2025-02-10 | [Azure for SAP Workloads Specialty](https://learn.microsoft.com/ja-jp/credentials/certifications/azure-for-sap-workloads-specialty/) |
