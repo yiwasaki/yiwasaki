@@ -57,8 +57,8 @@
 | 日付 | イベント名 | コミュニティ | 
 | --- | --- | --- | 
 |2026-07-16|[YonaYona Build Update Night](https://yonayona.connpass.com/event/396467/)|[YonaYona Azure Club](https://yonayona.connpass.com/)|
-|2026-07-16|[YonaYona Infra Night](https://yonayona.connpass.com/event/395805/)|[YonaYona Azure Club](https://yonayona.connpass.com/)|
-|2026-07-16|[【Azure AIの必須機能!?】YonaYona Durable Functions Night](https://yonayona.connpass.com/event/393817/)|[YonaYona Azure Club](https://yonayona.connpass.com/)|
+|2026-06-30|[YonaYona Infra Night](https://yonayona.connpass.com/event/395805/)|[YonaYona Azure Club](https://yonayona.connpass.com/)|
+|2026-06-12|[【Azure AIの必須機能!?】YonaYona Durable Functions Night](https://yonayona.connpass.com/event/393817/)|[YonaYona Azure Club](https://yonayona.connpass.com/)|
 
 
 ## ブログ
