@@ -33,7 +33,6 @@
 | 日付 | イベント名 | コミュニティ | タイトル |
 | --- | --- | --- | --- | 
 | 2026-08-28 | [すきやねん Azure!! #41　Azure インフラ 夏の陣！](https://sukiyanenazure.connpass.com/event/400073/) | [すきやねんAzure!!](https://sukiyanenazure.connpass.com/) | Entra ID join 用の拡張機能の話 | 
-| 2026-08-06 | [YonaYona Azure Club 1st Anniversary](https://yonayona.connpass.com/event/400889/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | タイトル未定 | 
 
 ### 今後の主催イベント
 | 日付 | イベント名 | コミュニティ | 
@@ -56,6 +55,7 @@
 ### これまでのコミュニティイベント運営
 | 日付 | イベント名 | コミュニティ | 
 | --- | --- | --- | 
+| 2026-08-06 | [YonaYona Azure Club 1st Anniversary](https://yonayona.connpass.com/event/400889/) | [YonaYona Azure Club](https://yonayona.connpass.com/) |
 |2026-07-16|[YonaYona Build Update Night](https://yonayona.connpass.com/event/396467/)|[YonaYona Azure Club](https://yonayona.connpass.com/)|
 |2026-06-30|[YonaYona Infra Night](https://yonayona.connpass.com/event/395805/)|[YonaYona Azure Club](https://yonayona.connpass.com/)|
 |2026-06-12|[【Azure AIの必須機能!?】YonaYona Durable Functions Night](https://yonayona.connpass.com/event/393817/)|[YonaYona Azure Club](https://yonayona.connpass.com/)|
