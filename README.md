@@ -65,6 +65,7 @@
 ## ブログ
 | タイトル | 検証用コード |
 | --- | --- |
+| [VM の構成管理を実現したい！ Azure のマシンの構成を使ってみた](https://qiita.com/iboy/items/23050c265ac9e6e21a1c) | [ソース](https://github.com/yiwasaki/iboy-blog-src/tree/main/src/guest_configuration) |
 | [Microsoft Entra ID Join した Azure VM に対して Remote Desktop 接続する際の方法と注意点](https://qiita.com/iboy/items/ca030fd3999a2cae7ba3) | - |
 | [Azure Files でクラウド専用 ID を使用して macOS からアクセスする方法が Public Preview になったので試してみた](https://qiita.com/iboy/items/a5b2455e87be8148bc05)| - |
 | [Enterprise 利用で組織外部の人とコラボレーションをする方法を考える(Entra 運用編)](https://qiita.com/iboy/items/125923c26f381b64266b)| - |
