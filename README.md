@@ -32,7 +32,7 @@
 ### 今後の登壇予定
 | 日付 | イベント名 | コミュニティ | タイトル |
 | --- | --- | --- | --- | 
-| 2026-09-10 | [YonaYona Storage Night]([https://sukiyanenazure.connpass.com/event/400073/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | Azure Filesync のお話 | 
+| 2026-09-10 | [YonaYona Storage Night](https://sukiyanenazure.connpass.com/event/400073/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | Azure Filesync のお話 | 
 | 2026-08-28 | [すきやねん Azure!! #41　Azure インフラ 夏の陣！](https://sukiyanenazure.connpass.com/event/400073/) | [すきやねんAzure!!](https://sukiyanenazure.connpass.com/) | Entra ID join 用の拡張機能の話 | 
 
 ### 今後の主催イベント
