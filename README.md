@@ -43,7 +43,7 @@
 ### これまでの登壇
 | 日付 | イベント名 | コミュニティ | タイトル | 資料 |
 | --- | --- | --- | --- | --- |
-| 2026-08-28 | [すきやねん Azure!! #41　Azure インフラ 夏の陣！](https://sukiyanenazure.connpass.com/event/400073/) | [すきやねんAzure!!](https://sukiyanenazure.connpass.com/) | Entra ID join 用の拡張機能の話 | 
+| 2026-08-28 | [すきやねん Azure!! #41　Azure インフラ 夏の陣！](https://sukiyanenazure.connpass.com/event/400073/) | [すきやねんAzure!!](https://sukiyanenazure.connpass.com/) | Azure VM の Entra ID Join 始めますか？ | [資料](https://www.docswell.com/s/iboy/53J4RL-sukiyanen-azure) |
 | 2026-07-24 | ★[AI Dev Day 2026](https://aidevday.com/) | [Azure AI Developers Community(JP)](https://azureai.connpass.com/) | [YonaYona Azure Clubへようこそ！](https://aidevday.com/sessions/yonayona-azure-club) | - |
 | 2026-07-10 | [第61回 Tokyo Jazug Night](https://jazug.connpass.com/event/394698/) | [JAZUG (Japan Azure User Group)](https://jazug.connpass.com/) | 外部IDで広がるAzure Virtual Desktop のセキュアコラボレーション | [資料](https://www.docswell.com/s/iboy/Z7N941-jazug) <br/> [リポジトリ](https://github.com/yiwasaki/iboy-blog-src/tree/main/src/avd_external_identity_wz_fslogix)|
 | 2026-06-23 | [ゆるよな Gh-CUG #02](https://gh-cug.connpass.com/event/392497/) | [(Gh-CUG) GitHub Copilot User Group](https://gh-cug.connpass.com/) | 技術ブログの課題をGitHub Copilotで解決 <br> - ブログをCopilot に定期レビューさせて最新を維持する -|[資料](https://gh-cug.connpass.com/event/392497/) |
