@@ -19,6 +19,7 @@
 ### Microsoft 認定資格
 | 認定日 | 資格名 |
 | --- | --- |
+| 2026-09-18 | [Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/ja-jp/92204327/A468E2CEF1EB1769?sharingId=C30E4A25548B52FB) |
 | 2026-06-26 | [GitHub Foundations](https://learn.microsoft.com/ja-jp/credentials/certifications/github-foundations/?practice-assessment-type=certification) |
 | 2025-12-24 | [Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/ja-jp/credentials/certifications/security-compliance-and-identity-fundamentals/) |
 | 2025-07-19 | [Azure Virtual Desktop Specialty](https://learn.microsoft.com/ja-jp/credentials/certifications/azure-virtual-desktop-specialty/) |
@@ -32,17 +33,19 @@
 ### 今後の登壇予定
 | 日付 | イベント名 | コミュニティ | タイトル |
 | --- | --- | --- | --- | 
-| 2026-09-10 | [YonaYona Storage Night](https://sukiyanenazure.connpass.com/event/400073/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | Azure Filesync のお話 | 
+| 2026-09-10 | [Japan Azure User Group 16周年イベント](https://jazug.connpass.com/event/404770/) | [JAZUG (Japan Azure User Group)](https://jazug.connpass.com/) | Group Policy? Intune? Azure VM の構成管理に使えるその他の手段 | 
 
 ### 今後の主催イベント
 | 日付 | イベント名 | コミュニティ | 
 | --- | --- | --- | 
 | 2026-09-26 | [Microsoft Entra ID を触って学ぶ セキュリティ 実践ハンズオン in Tokyo](https://yonayona.connpass.com/event/396158/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | 
+| 2026-10-09 | [YonaYona Fabric & AI Night](https://yonayona.connpass.com/event/406376/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | 
 
 
 ### これまでの登壇
 | 日付 | イベント名 | コミュニティ | タイトル | 資料 |
 | --- | --- | --- | --- | --- |
+| 2026-09-10 | [YonaYona Storage Night](https://sukiyanenazure.connpass.com/event/400073/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | Files？Filesync？クラウドでファイルサーバを構築する際の選択肢を知ろう | [資料](https://www.docswell.com/s/iboy/53JYPM-yonaaz21) |
 | 2026-08-28 | [すきやねん Azure!! #41　Azure インフラ 夏の陣！](https://sukiyanenazure.connpass.com/event/400073/) | [すきやねんAzure!!](https://sukiyanenazure.connpass.com/) | Azure VM の Entra ID Join 始めますか？ | [資料](https://www.docswell.com/s/iboy/53J4RL-sukiyanen-azure) |
 | 2026-07-24 | ★[AI Dev Day 2026](https://aidevday.com/) | [Azure AI Developers Community(JP)](https://azureai.connpass.com/) | [YonaYona Azure Clubへようこそ！](https://aidevday.com/sessions/yonayona-azure-club) | - |
 | 2026-07-10 | [第61回 Tokyo Jazug Night](https://jazug.connpass.com/event/394698/) | [JAZUG (Japan Azure User Group)](https://jazug.connpass.com/) | 外部IDで広がるAzure Virtual Desktop のセキュアコラボレーション | [資料](https://www.docswell.com/s/iboy/Z7N941-jazug) <br/> [リポジトリ](https://github.com/yiwasaki/iboy-blog-src/tree/main/src/avd_external_identity_wz_fslogix)|
