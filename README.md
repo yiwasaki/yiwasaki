@@ -38,8 +38,8 @@
 ### 今後の主催イベント
 | 日付 | イベント名 | コミュニティ | 
 | --- | --- | --- | 
-| 2026-09-26 | [Microsoft Entra ID を触って学ぶ セキュリティ 実践ハンズオン in Tokyo](https://yonayona.connpass.com/event/396158/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | 
 | 2026-10-09 | [YonaYona Fabric & AI Night](https://yonayona.connpass.com/event/406376/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | 
+| 2026-10-09 | [YonaAz × GH-CUG コラボ会 - GitHub Copilot Night](https://yonayona.connpass.com/event/407635/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | 
 
 
 ### これまでの登壇
@@ -59,6 +59,7 @@
 ### これまでのコミュニティイベント運営
 | 日付 | イベント名 | コミュニティ | 
 | --- | --- | --- | 
+| 2026-09-26 | [Microsoft Entra ID を触って学ぶ セキュリティ 実践ハンズオン in Tokyo](https://yonayona.connpass.com/event/396158/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | 
 |2026-08-27|[【YonaAz in 大阪】 AI × VDI Meetup](https://yonayona.connpass.com/event/397871/)|[YonaYona Azure Club](https://yonayona.connpass.com/)|
 | 2026-08-06 | [YonaYona Azure Club 1st Anniversary](https://yonayona.connpass.com/event/400889/) | [YonaYona Azure Club](https://yonayona.connpass.com/) |
 |2026-07-16|[YonaYona Build Update Night](https://yonayona.connpass.com/event/396467/)|[YonaYona Azure Club](https://yonayona.connpass.com/)|
