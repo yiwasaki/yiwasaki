@@ -33,18 +33,19 @@
 ### 今後の登壇予定
 | 日付 | イベント名 | コミュニティ | タイトル |
 | --- | --- | --- | --- | 
-| 2026-09-10 | [Japan Azure User Group 16周年イベント](https://jazug.connpass.com/event/404770/) | [JAZUG (Japan Azure User Group)](https://jazug.connpass.com/) | Group Policy? Intune? Azure VM の構成管理に使えるその他の手段 | 
 
 ### 今後の主催イベント
 | 日付 | イベント名 | コミュニティ | 
 | --- | --- | --- | 
-| 2026-10-09 | [YonaYona Fabric & AI Night](https://yonayona.connpass.com/event/406376/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | 
-| 2026-10-09 | [YonaAz × GH-CUG コラボ会 - GitHub Copilot Night](https://yonayona.connpass.com/event/407635/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | 
+| 2026-12-03 | [YonaYona Special Night with James Montemagno](https://yonayona.connpass.com/event/408643/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | 
+| 2026-11-13 | [YonaYona Beginner Talk Night](https://yonayona.connpass.com/event/410647/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | 
 
 
 ### これまでの登壇
 | 日付 | イベント名 | コミュニティ | タイトル | 資料 |
 | --- | --- | --- | --- | --- |
+| 2026-10-09 | ★ [YonaAz × GH-CUG コラボ会 - GitHub Copilot Night](https://yonayona.connpass.com/event/407635/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | GitHub Copilot App はいいぞー |[資料](https://www.docswell.com/s/iboy/Z7NM8N-yonaaz23) |
+| 2026-10-03 | [Japan Azure User Group 16周年イベント](https://jazug.connpass.com/event/404770/) | [JAZUG (Japan Azure User Group)](https://jazug.connpass.com/) | Group Policy? Intune? Azure VM の構成管理に使えるその他の手段 | [資料](https://www.docswell.com/s/iboy/ZE17W8-jazug16)|
 | 2026-09-10 | ★[YonaYona Storage Night](https://sukiyanenazure.connpass.com/event/400073/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | Files？Filesync？クラウドでファイルサーバを構築する際の選択肢を知ろう | [資料](https://www.docswell.com/s/iboy/53JYPM-yonaaz21) |
 | 2026-08-28 | [すきやねん Azure!! #41　Azure インフラ 夏の陣！](https://sukiyanenazure.connpass.com/event/400073/) | [すきやねんAzure!!](https://sukiyanenazure.connpass.com/) | Azure VM の Entra ID Join 始めますか？ | [資料](https://www.docswell.com/s/iboy/53J4RL-sukiyanen-azure) |
 | 2026-07-24 | ★[AI Dev Day 2026](https://aidevday.com/) | [Azure AI Developers Community(JP)](https://azureai.connpass.com/) | [YonaYona Azure Clubへようこそ！](https://aidevday.com/sessions/yonayona-azure-club) | - |
@@ -59,6 +60,7 @@
 ### これまでのコミュニティイベント運営
 | 日付 | イベント名 | コミュニティ | 
 | --- | --- | --- | 
+| 2026-10-09 | [YonaYona Fabric & AI Night](https://yonayona.connpass.com/event/406376/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | 
 | 2026-09-26 | [Microsoft Entra ID を触って学ぶ セキュリティ 実践ハンズオン in Tokyo](https://yonayona.connpass.com/event/396158/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | 
 |2026-08-27|[【YonaAz in 大阪】 AI × VDI Meetup](https://yonayona.connpass.com/event/397871/)|[YonaYona Azure Club](https://yonayona.connpass.com/)|
 | 2026-08-06 | [YonaYona Azure Club 1st Anniversary](https://yonayona.connpass.com/event/400889/) | [YonaYona Azure Club](https://yonayona.connpass.com/) |
