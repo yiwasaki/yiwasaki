@@ -16,6 +16,15 @@
 | Qiita | [iboy](https://qiita.com/iboy) |
 | Docswell | [iboy](https://www.docswell.com/user/iboy) |
 
+### Award 受賞
+
+#### [Microsoft MVP](https://mvp.microsoft.com/ja-JP/MVP/profile/95f00760-e3a4-4a9e-9e8a-d50006ab9387)
+- 受賞年： 2026-2027
+- 受賞回数: 1 回
+- 対象領域：
+  - Azure Storage
+  - Azure Compute Infrastructure
+
 ### Microsoft 認定資格
 | 認定日 | 資格名 |
 | --- | --- |
@@ -38,6 +47,7 @@
 | 日付 | イベント名 | コミュニティ | 
 | --- | --- | --- | 
 | 2026-12-03 | [YonaYona Special Night with James Montemagno](https://yonayona.connpass.com/event/408643/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | 
+| 2026-11-26 | [YonaYona Ignite ＆ Universe Night](https://yonayona.connpass.com/event/411879/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | 
 | 2026-11-13 | [YonaYona Beginner Talk Night](https://yonayona.connpass.com/event/410647/) | [YonaYona Azure Club](https://yonayona.connpass.com/) | 
 
 
